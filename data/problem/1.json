@@ -1,0 +1,18 @@
+{
+  "index": 1,
+  "question": "add two number and print answer.",
+  "givenParameter": [
+    "1,2",
+    "-1,2",
+    "0,0",
+    "-2,1"
+  ],
+  "expectedAnswer": [
+    "3",
+    "1",
+    "0",
+    "-1"
+  ],
+  "timeLimit": 1024,
+  "memoryLimit": 1024
+}
